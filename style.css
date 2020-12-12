@@ -1,0 +1,42 @@
+#ti
+{
+    color: blue;
+}
+.fp
+{
+    background-color: #9bd42f;
+    color: white;
+}
+.fp> p
+{
+    font-size: 17px;
+}
+p>strong
+{
+    color: black;
+}
+.l
+{
+    color: palevioletred;
+    font-size: 18px;
+}
+#m
+{
+    color: rgb(117, 216, 255);
+}
+h1
+{
+    color: black;
+}
+#mm
+{
+    color: yellow;
+}
+#foot
+{
+    font-size: 17px;
+}
+#aa
+{
+    color: rgb(206, 0, 0);
+}
